@@ -4,7 +4,7 @@
 
 *** Tentang Aplikasi
 
-Aplikasi Perpustakaan Mentari adalah aplikasi yang digunakan untuk mengelola peminjaman pada sebuah perpustakaan atau oleh petugas. Aplikasi ini dibuat menggunakan flutter, node js sebagai API dan MySQL sebagai database.
+Aplikasi Perpustakaan Mentari adalah aplikasi yang digunakan untuk mengelola peminjaman pada sebuah perpustakaan secara efisien. Aplikasi ini dibuat menggunakan flutter, node js sebagai API dan MySQL sebagai database. 
 
 *** Beberapa Fitur yang tersedia:
 - User (Administrator, Peminjam, Petugas)
