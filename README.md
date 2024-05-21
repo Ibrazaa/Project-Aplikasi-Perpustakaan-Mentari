@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Ibrazaa/Project-Aplikasi-Perpustakaan-Mentari/tree/master" target="_blank"><img src="https://github.com/Ibrazaa/Project-Aplikasi-Perpustakaan-Mentari/blob/master/assets/mentari.png" width="120"></a>
+    <a href="https://github.com/Ibrazaa/Project-Aplikasi-Perpustakaan-Mentari/tree/master" target="_blank"><img src="https://github.com/Ibrazaa/Project-Aplikasi-Perpustakaan-Mentari/blob/master/assets/mentari.png" width="150"></a>
 </p>
 
 *** Tentang Aplikasi
